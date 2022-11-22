@@ -1,0 +1,18 @@
+.userInfo {
+  padding: 1rem;
+  background-color: rgb(255, 255, 255);
+  margin: 2rem auto;
+  width: 50rem;
+  max-width: 95%;
+}
+
+.users-list {
+  list-style: none;
+  padding: 0;
+}
+
+.users-list__fallback {
+  color: white;
+  text-align: center;
+}
+
